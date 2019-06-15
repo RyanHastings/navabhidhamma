@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Navâbhidhamma
 email: buoyant.gas@gmail.com
-description: Concordance of pericopes and similes and other neat things from the EBTs
-for neo-Abhidhammikas
+description: Concordance of pericopes and similes and other neat things from the EBTs for neo-Abhidhammikas
 baseurl: "/navabhidhamma" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BuoyantGas
