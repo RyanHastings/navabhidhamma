@@ -1,0 +1,16 @@
+---
+layout: post
+title: The Buddha Taught in Pāli
+date: 2019-06-26 17:20:00 -04:00
+categories: Pali
+---
+
+I just finished reading [The Buddha Taught in Pali: A working hypothesis](https://www.academia.edu/39258912/The_Buddha_taught_in_Pali_A_working_hypothesis) by Stefan Karpik, published in the *Journal of the Oxford Centre of Buddhist Studies* this year (2019).  In it, Karpik lays out an argument that the theory that Pāli originated as a mixture of local dialects in which the Buddha's teachings were transmitted is incorrect, and that, in fact, the language we now call Pāli pre-existed the Buddha, and is the language in which the Buddha taught.
+
+He begins by considering a few pieces of evidence that have been used to construct what he refers to as the MOTT, Multiple Oral Transmission Theory, instead forwarding a SOTT, Single Oral Transmission Theory.  The basic argument is that the Buddha would have encountered a number of different Prakrits (whether they be called languages or dialects seems somewhat arbitrary) while wandering over the expanse of central India that he did, and that he would have translated his teachings into these local languages (or would have otherwise had his teaching translated).  Only later was a hybrid, artificial language, which we now call Pāli, constructed for transmission of the Buddha's teachings.  This is bolstered by a passage in the MN in which the Buddha seemingly instructs his disciples to teach in the local languages.  After this evidence is examined and rejected, he concludes by arguing that a trade language common to the area where the Buddha roamed must have already existed by simple necessity of the social and economic situation of the time, and the Buddha simply used that language.
+
+Key to the idea that he would have translated his teachings is that it would have been necessary.  However, the differences in the Prakrits seems to have more to do with accent and local turns of phrase than anything that would render them mutually unintelligible and thus necessitating translation.  Moreover, aping the local tongue might even produce a comical or satirical effect (consider how such a thing plays out today).  Given that the Buddha would almost certainly have been understood, the idea of multiple language transmission is unnecessary.  The scriptural evidence in favor of this is shown to be somewhat flimsy, as several different interpretations of the text can be found, all of which are more likely than the MOTT interpretation.  Indeed, there is scriptural evidence supporting the idea that the Buddha's teachings are to be memorized down to the syllable, in support of a SOTT.
+
+However, common culture was shared by the areas in which the Buddha roamed, so there is good reason to think a common dialect (or sociolect) would have existed that the Buddha could have employed.  Karpik lays out several arguments as to why it would have the features of Pāli, generally regarded to be a Western dialect of Indo-Aryan.
+
+In general, the text gives a pretty compelling argument for Pāli being the language of the Buddha. 
