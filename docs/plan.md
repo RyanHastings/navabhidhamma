@@ -11,6 +11,7 @@ This is the current plan for the preliminary studies leading to the actual meat 
     - *The Life of the Buddha* (Bhikkhu Ñāṇamoli)
     - *The Buddhist Path of Awakening* (Gethin)
     - *From Craving to Grasping* and *From Grasping to Emptiness* (Bhikkhu Anālayo)
+    - *A Swift Pair of Messengers*
 3. Exploration of Theravāda.
     - *Abhidhamma Studies*
     - *A Guide to the Abhidhamma*
