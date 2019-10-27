@@ -2,7 +2,7 @@
 ---
 layout: post
 title: Moving Forward
-date: 2019-10-27 11:03:00 -05:00
+date: 2019-10-27 11:03:00 -04:00
 categories: Update
 ---
 
