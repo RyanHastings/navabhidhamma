@@ -30,3 +30,7 @@ A detailed survey of the development of Buddhism in India from the Buddha himsel
 ### Kaprik, Stefan, 2019.  "The Buddha Taught in Pali: A working hypothesis".  *The Journal for the Oxford Centre for Buddhist Studies*, **16**: 10-86.
 
 A look at the arguments for Pāli being an artificial language built from several natural Prakrits, a rejection of those arguments, and an argument for the language that evolved into what we now call Pāli being the language of the Buddha's original teaching.
+
+## Early Buddhism
+
+[Bhikkhu Anālayo, "The *Mahācattārīsaka-sutta* in the Light of its Parallels--Tracing the Beginnings of Abhidharmic Thought, JCBSSL Vol VIII, pp 59-93"](../docs/notes/Analayo_MahaccatarisakaSuttaAbhidharma.md).  A comparison of three parallels to "Discourse on the Great Forty"
