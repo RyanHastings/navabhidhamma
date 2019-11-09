@@ -5,7 +5,7 @@ title: The Grand Plan
 
 This is the current plan for the preliminary studies leading to the actual meat of the work on this project.
 
-1. Finish the EBTs.  I am currently on the Saṃyutta Nikāya.  First task is to finish these.
+1. Finish the EBTs.  I am currently on the Sutta-Nipāta.  First task is to finish these.
 2. Finish some other preliminary stuff.
     - *The Great Disciples of the Buddha*
     - *The Life of the Buddha* (Bhikkhu Ñāṇamoli)
@@ -24,3 +24,6 @@ This is the current plan for the preliminary studies leading to the actual meat 
 6. Indian Tantra.
 7. East Asian Buddhism.  Start with China, then look at Korea, Japan, and Vietnam.
 8. Tibetan Buddhism.
+
+---
+Last updated: 3 Nov 2019
