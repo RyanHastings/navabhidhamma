@@ -9,4 +9,4 @@ This is an annotated bibliography of some of the works I've read, including summ
 - [General Buddhism](gen-buddhism.html)
 - [Indian Buddhism](indian-buddhism.html)
 - [Theravāda Buddhism](theravada.html)
-- [Reading List](reading-list.md)
+- [Reading List](reading-list.html)
