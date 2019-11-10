@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Notes on Alexander Wynne's "The ātman and its negation--A conceptual and chronological analysis of early Buddhist thought"
-permalink: /docs/notes
 ---
 
 Wynne, Alexander, 2010:  "The ātman and its negation: A Conceptual and chronological analysis of early Buddhist thought."  *Journal
