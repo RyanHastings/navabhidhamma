@@ -35,6 +35,11 @@ A look at the arguments for Pāli being an artificial language built from severa
 
 [Bhikkhu Anālayo, "The *Mahācattārīsaka-sutta* in the Light of its Parallels--Tracing the Beginnings of Abhidharmic Thought, JCBSSL Vol VIII, pp 59-93"](../docs/notes/Analayo_MahaccatarisakaSuttaAbhidharma.md).  A comparison of three parallels to "Discourse on the Great Forty"
 
+[Polak, Grzegorz. 2018.  "Language, Conscious Experience, and the Self in Early Buddhism.  A Cross-cultural Interdisciplinary Study."
+*JOCBS*.  pp. 37-76.](../docs/notes/Polak_LanguageConsciousExperienceSelf.html)  The author examines the value of investigating the EBTs, and of taking an interdisciplinary approach with cognitive science.  He outlines
+a model of the human being as a complex system of independent cognitive processes, and discusses the role language plays in shaping our
+experience (drawing heavy connections with Wittgenstein).
+
 [Wynne, Alexander.  2004.  "The Oral Transmission of Early Buddhist Literature."  *Journal of the International Association of Buddhist Studies.*
 Vol 27(1), pp. 97-128.](../docs/notes/Wynne_OralTransmission.html).  A look at two theories of oral transmission of the EBTs, improvisational and
 fixed, and argument that the latter is correct.
